@@ -1,0 +1,17 @@
+"E:\工程机器人小车综合资料\K60软件\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"E:\工程机器人小车综合资料\K60软件\IAR Systems\Embedded Workbench 7.5\arm\bin\armjlink2.dll" 
+
+"C:\Users\Dargon\Desktop\03-26-巡线试用版\Projecct\IAR\program\MK60_Debug\Exe\SeekFree_Kinetis.out" 
+
+--plugin "E:\工程机器人小车综合资料\K60软件\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--device_macro "E:\工程机器人小车综合资料\K60软件\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "E:\工程机器人小车综合资料\K60软件\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "E:\工程机器人小车综合资料\K60软件\IAR Systems\Embedded Workbench 7.5\arm\config\flashloader\NXP\flash\FlashK60Xxxx.board" 
+
+
+
+
